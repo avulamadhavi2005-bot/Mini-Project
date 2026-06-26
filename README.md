@@ -20,7 +20,7 @@ Technologies Used:
 
 Project Structure:
 Mini-Project
-│
+|
 ├── PPT
 ├── Documentation
 ├── Source_Code
