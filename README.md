@@ -50,6 +50,6 @@ Future Enhancements:
 - Online Payment Integration
 
 Author:
-Avula Madhavi
-B.Tech CSE
-Annamacharya Institute of Technology and Sciences, Tirupati
+Avula Madhavi,
+B.Tech CSE,
+Annamacharya Institute of Technology and Sciences, Tirupati.
